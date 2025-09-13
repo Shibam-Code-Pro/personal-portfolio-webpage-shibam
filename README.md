@@ -16,7 +16,7 @@ A modern, responsive personal portfolio website showcasing the work and skills o
 
 ## ✨ Live Demo
 
-🌐 **[View Live Personal Portfolio Webpage](https://personal-portfolio-webpage-shibam.vercel.app)**
+🌐 **[View Personal Portfolio Webpage](https://personal-portfolio-webpage-shibam.vercel.app)**
 
 ## 🚀 Key Features
 
